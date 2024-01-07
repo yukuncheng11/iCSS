@@ -1,20 +1,4 @@
 
-## ![logo](https://github.com/chokcoco/iCSS/blob/master/logo.jpg?raw=true)
-
-CSS 奇技淫巧，在这里，都有。
-
-本 Repo 围绕 **CSS/Web动画** 展开，谈一些有趣的话题，内容天马行空，想到什么说什么，不仅是为了拓宽解决问题的思路，更涉及一些容易忽视或是十分有趣的 CSS 细节。
-
-所有内容都在 [Issues](https://github.com/chokcoco/iCSS/issues) 中，同步更新到我的[个人博客](http://www.cnblogs.com/coco1s/)，觉得不错的可以点个 `star` 收藏支持。
-
-如果有任何问题或者疑问，可以加 QQ 群：537345029 一起讨论。
-
-## iCSS 前端趣闻
-
-所有内容会首发更新到我的公众号，想 Get 到最有意思的 CSS 资讯，千万不要错过我的 iCSS 公众号 😄
-
-<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png" />
-
 ## LIST
 
 #### 204、[现代 CSS 解决方案：文字颜色自动适配背景色！](https://github.com/chokcoco/iCSS/issues/253)
